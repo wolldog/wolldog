@@ -48,25 +48,11 @@ Open to new opportunities, whether they involve collaborating on exciting projec
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/wolldog)
 
 
-
+<!--
 
 # 📊 Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolldog&layout=donut)](#)
 
 ![View Count](https://komarev.com/ghpvc/?username=wolldog&style=for-the-badge&logoColor=blue)
-
-<!--
-**wolldog/wolldog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
