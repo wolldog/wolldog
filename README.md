@@ -40,9 +40,15 @@ Open to new opportunities, whether they involve collaborating on exciting projec
 
 # 📫 How to reach me: 
 
-[![Your Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-wallis-b1bb0590/)
+ If you have questions regarding the ready-to-README application,
+  you can contact me directly by email at lydiawallis@live.co.uk or click one of the links below.
 
-[![Your Badge](https://img.shields.io/badge/EMAIL-43853D?style=for-the-badge&logoColor=white)](mailto:lydialhw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-wallis-b1bb0590/)
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/wolldog)
+
+
+
 
 # 📊 Stats:
 
