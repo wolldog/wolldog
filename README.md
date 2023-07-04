@@ -16,6 +16,8 @@ Open to new opportunities, whether they involve collaborating on exciting projec
 [![JQuery](	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![AntDesign](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)](#)
+[![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)](#)
+
 
 ## Back-end
 
@@ -40,7 +42,7 @@ Open to new opportunities, whether they involve collaborating on exciting projec
 
 # 📫 How to reach me: 
 
- If you have questions you can contact me directly by email at lydiawallis@live.co.uk or click one of the links below.
+ If you have questions you can contact me directly by email at lydiawallis@live.co.uk , or click one of the links below.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-wallis-b1bb0590/)
 
